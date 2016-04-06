@@ -6,7 +6,7 @@ hypergeomq
 
 --------
 
-[```hypergeomq(N,D,Z)```]() evaluates the generalized hypergeometric function for the vector parameters ```N``` and ```D``` at the values in the array ```Z```. ```N```, ```D```, and ```Z``` can be any numeric or logical datatype and may be complex. The output will have the same dimensions as ```Z``` and will be double-precision unless ```Z``` is single-precision, in which case, the output will be as well.
+[```hypergeomq(N,D,Z)```](https://github.com/horchler/hypergeomq/blob/master/hypergeomq.m) evaluates the generalized hypergeometric function for the vector parameters ```N``` and ```D``` at the values in the array ```Z```. ```N```, ```D```, and ```Z``` can be any numeric or logical datatype and may be complex. The output will have the same dimensions as ```Z``` and will be double-precision unless ```Z``` is single-precision, in which case, the output will be as well.
 
 ```hypergeomq``` uses the same low-level function as ```hypergeom```, but implements several optimizations to achieve a performance boost of approximately an order of magnitude. Results from the two functions should agree to the precision of the inputs. Additionaly, ```hypergeomq``` can avoid some errors due to singularities that can occur when ```hypergeom``` is evaluated with numeric ```Z``` values.
 &nbsp;  
