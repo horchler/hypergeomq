@@ -25,7 +25,8 @@ function h=hypergeomq(n,d,z)
 %       figure; loglog(z,abs(h1),'k',z,abs(h2)); grid on;
 %       xlabel('z'); ylabel('|1F1(a;b;z)|, |2F1(a,b;c;z)|');
 %       legend('_1F_1(a_1;b;z)','_2F_1(a_1,200;b;z/200)',...
-%           '_2F_1(a_1,500;b;z/500)','_2F_1(a_1,2000;b;z/2000)',2);
+%           '_2F_1(a_1,500;b;z/500)','_2F_1(a_1,2000;b;z/2000)',...
+%           'Location','NorthWest);
 %
 %   Class support for ouput H:
 %       float: double, single
@@ -33,7 +34,7 @@ function h=hypergeomq(n,d,z)
 %   See also: HYPERGEOM, SYM/HYPERGEOM.
 
 %   Andrew D. Horchler, adh9 @ case . edu, Created 7-22-12
-%   Revision: 1.1, 5-19-14
+%   Revision: 1.1, 4-21-16
 
 
 % Check zeroes
