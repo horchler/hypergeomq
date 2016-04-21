@@ -26,7 +26,7 @@ function h=hypergeomq(n,d,z)
 %       xlabel('z'); ylabel('|1F1(a;b;z)|, |2F1(a,b;c;z)|');
 %       legend('_1F_1(a_1;b;z)','_2F_1(a_1,200;b;z/200)',...
 %           '_2F_1(a_1,500;b;z/500)','_2F_1(a_1,2000;b;z/2000)',...
-%           'Location','NorthWest);
+%           'Location','NorthWest');
 %
 %   Class support for ouput H:
 %       float: double, single
