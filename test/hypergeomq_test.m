@@ -1,7 +1,7 @@
 function hypergeomq_test
 %HYPERGEOM_TEST  
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 7-23-12
+%   Andrew D. Horchler, horchler @ gmail . com, Created 7-23-12
 %   Revision: 1.1, 4-8-16
 
 

@@ -33,7 +33,7 @@ function h=hypergeomq(n,d,z)
 %
 %   See also: HYPERGEOM, SYM/HYPERGEOM.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 7-22-12
+%   Andrew D. Horchler, horchler @ gmail . com, Created 7-22-12
 %   Revision: 1.1, 4-21-16
 
 

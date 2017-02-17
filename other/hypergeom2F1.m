@@ -15,7 +15,7 @@ function h=hypergeom2F1(a,b,c,z,tol)
 %
 %   See also HYPERGEOM.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-12-13
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-12-13
 %   Revision: 1.0, 5-19-14
 
 
