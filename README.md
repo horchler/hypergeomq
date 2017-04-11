@@ -1,8 +1,8 @@
 hypergeomq
 ========
-#####Fast evaluation of the generalized hypergeometric function in Matlab.#####
-######Version 1.1, 4-21-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/hypergeomq/archive/master.zip)#####
+##### Fast evaluation of the generalized hypergeometric function in Matlab.
+###### Version 1.1, 4-21-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/hypergeomq/archive/master.zip)
 
 --------
 
